@@ -2,6 +2,7 @@
 
 # Enable power management for PCI and USB devices
 # Verify power consumption (watage) in powertop before and after. Tunables should be "good".
+# chmod +x file
 # Put this file in /usr/local/bin
 # Add "/usr/local/bin/power-management.sh" to /etc/rc.local before exit
 # Restart
